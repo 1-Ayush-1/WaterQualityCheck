@@ -47,7 +47,9 @@ Install all the necessary Python libraries by running: pip install -r requiremen
     You need to update the dataset path in the 2nd cell of the Jupyter notebook in Folder "Notebook/Water_Quality_Check".
 
 Currently, the path is written as:"D:\\Data_Science\\Projects\\WaterQualityCheck\\Dataset\\water_potability.csv"
+
 Change it to : file_path = "C:\\Users\\YourUsername\\Path\\To\\Dataset\\water_potability.csv"
+
 You should replace it with your local dataset path.
 
 ## Potential Issues You Might Encounter:
